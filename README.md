@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://i.ibb.co/4J3Xz5V/github-banner.png" alt="banner" width="600" />
 </div>
+
 
 ###
 

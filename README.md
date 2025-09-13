@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://i.ibb.co/4J3Xz5V/github-banner.png" alt="banner" width="600" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+<h1 align="center">hey there 👋<br>I'am Eya Ajmi</h1>
 
 ###
 
@@ -28,7 +29,6 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I'am Eya Ajmi</h1>
 
 ###
 

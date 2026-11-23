@@ -4,7 +4,12 @@
 
 **Data Science & AI Engineering Student · Junior Full-Stack Developer**
 
-[LinkedIn](https://www.linkedin.com/in/ajmieya13) · [GitHub](https://github.com/Eyaajmii) · [Email](mailto:ajmieya13@gmail.com)
+<a href="https://www.linkedin.com/in/ajmieya13">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ajmieya13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 

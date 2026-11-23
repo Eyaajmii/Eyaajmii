@@ -56,7 +56,6 @@ My interests lie at the intersection of Artificial Intelligence, Data Science an
 ### Artificial Intelligence & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
@@ -75,56 +74,6 @@ My interests lie at the intersection of Artificial Intelligence, Data Science an
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode,eclipse,anaconda,latex&theme=light"/>
 </p>
-
----
-
-## Selected Projects
-
-### Intelligent SMSI Documentation Chatbot
-
-RAG-based chatbot for exploring ISO/IEC 27001 security documentation, featuring semantic indexing, hybrid search and source-grounded answers.
-
-`Python` `LangChain` `FAISS` `RAG` `React` `PyPDF`
-
-### AI-Powered Marketing Analytics Platform
-
-Internal platform for marketing campaign analysis, integrating Google Ads, Meta Ads and Google Analytics, with AEO/GEO content optimization.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Claude API` `Vercel`
-
-### Mawashi – FirmaTrack
-
-Web and mobile platform for monitoring livestock health, productivity and financial activities.
-
-`Spring Boot` `React.js` `PostgreSQL` `React Native`
-
-### Medical Clinic Management
-
-Full-stack application for managing medical clinic activities.
-
-`Angular` `Django` `MySQL`
-
-### Airline Crew Meals Management
-
-Web and mobile application with real-time communication for airline crew meal management.
-
-`Angular` `Node.js` `MongoDB` `Flutter` `Socket.IO`
-
-### Carpooling & Car Rental Platform
-
-Web application for carpooling and vehicle rental management.
-
-`Angular` `Node.js` `Express.js` `Postman`
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eyaajmii&theme=discord&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 

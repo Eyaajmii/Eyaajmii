@@ -1,283 +1,159 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=210&section=header&text=Eya%20Ajmi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descSize=17&descAlignY=57" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=190&section=header&text=Eya%20Ajmi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Software%20Development&descSize=15&descAlignY=60" width="100%"/>
 
-# Hi there, I'm Eya Ajmi! 👋
+### Data Science & AI Engineering Student | Full-Stack Developer
 
-### 🤖 Data Science & AI Engineering Student | 💻 Full-Stack Developer
+<a href="https://www.linkedin.com/in/ajmieya13">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ajmieya13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Eyaajmii">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/ajmieya13">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ajmieya13@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Eyaajmii">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Eyaajmii&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Eyaajmii&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-<img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation"/>
+I'm **Eya Ajmi**, a Data Science and AI Engineering student with a background in Information Systems Development.
 
-Hello! I'm **Eya Ajmi**, a Data Science and AI Engineering student with a background in Information Systems Development.
+My interests lie at the intersection of Artificial Intelligence, Data Science and Software Engineering. I enjoy designing intelligent solutions and developing modern web and mobile applications.
 
-I'm passionate about combining **Artificial Intelligence, Data Science, and Full-Stack Development** to build intelligent and innovative applications.
-
-- 🎓 Data Science & AI Engineering Student
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
-- 💻 Full-Stack Web & Mobile Developer
-- 🧠 Exploring RAG architectures, NLP and intelligent chatbots
-- 🚀 Passionate about solving real-world problems through technology
-- 🤝 Open to collaboration, internships and exciting opportunities
-
-<br clear="right"/>
+- Artificial Intelligence & Generative AI
+- Data Science, Machine Learning & NLP
+- Full-Stack Web and Mobile Development
+- RAG architectures and intelligent search systems
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,php,js,ts"/>
-</p>
-
-### 🌐 Frontend Development
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,angular,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php,c&theme=light"/>
 </p>
 
-### ⚙️ Backend Development
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,symfony"/>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind&theme=light"/>
 </p>
 
-### 🤖 Artificial Intelligence & Data Science
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,symfony&theme=light"/>
+</p>
+
+### Artificial Intelligence & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyPDF-3776AB?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases
+### Databases & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,flutter,dart,reactnative,androidstudio&theme=light"/>
 </p>
 
-### 📱 Mobile Development
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode,eclipse,anaconda,latex&theme=light"/>
 </p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,anaconda,latex,docker"/>
-</p>
-
-**Other technologies:**
-
-`REST API` `SOAP` `Socket.IO` `Google Ads API` `Meta Ads API` `Google Analytics 4` `Search Console` `NextAuth.js` `StarUML` `Scrum` `Agile` `CI/CD` `Vercel`
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 🤖 1. Intelligent SMSI Documentation Chatbot
+### Intelligent SMSI Documentation Chatbot
 
-<kbd>Artificial Intelligence</kbd> <kbd>RAG</kbd> <kbd>NLP</kbd>
+RAG-based chatbot for exploring ISO/IEC 27001 security documentation, featuring semantic indexing, hybrid search and source-grounded answers.
 
-Development of an intelligent chatbot based on RAG architecture to assist users in exploring ISO/IEC 27001 security documentation.
+`Python` `LangChain` `FAISS` `RAG` `React` `PyPDF`
 
-**Key features:**
-- Semantic indexing and document processing.
-- Hybrid search (textual + vector search).
-- Reliable and source-grounded answers.
-- Logging and monitoring dashboard.
+### AI-Powered Marketing Analytics Platform
 
-**Technologies:**
+Internal platform for marketing campaign analysis, integrating Google Ads, Meta Ads and Google Analytics, with AEO/GEO content optimization.
 
-`Python` `LangChain` `FAISS` `RAG` `React` `PyPDF` `Git`
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Claude API` `Vercel`
 
----
+### Mawashi – FirmaTrack
 
-### 📊 2. AI-Powered Digital Marketing & Analytics Platform
-
-<kbd>AI</kbd> <kbd>Full-Stack</kbd> <kbd>Analytics</kbd>
-
-Development of an internal platform for centralizing and analyzing marketing data from Google Ads, Meta Ads and Google Analytics.
-
-**Key features:**
-- Intelligent marketing campaign analysis.
-- AEO/GEO auditing and content optimization.
-- AI search engine optimization for ChatGPT, Gemini, Claude and Perplexity.
-- Automated deployment with CI/CD.
-
-**Technologies:**
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `NextAuth.js` `Claude API` `Google Ads API` `GA4` `Meta Ads API` `Vercel`
-
----
-
-### 🐄 3. Mawashi (FirmaTrack) – Livestock Management Platform
-
-<kbd>Full-Stack</kbd> <kbd>Mobile</kbd>
-
-Design and development of a web and mobile platform for monitoring livestock health, productivity and financial activities.
-
-**Technologies:**
+Web and mobile platform for monitoring livestock health, productivity and financial activities.
 
 `Spring Boot` `React.js` `PostgreSQL` `React Native`
 
----
+### Medical Clinic Management
 
-### 🏥 4. Medical Clinic Management Application
-
-<kbd>Web Development</kbd> <kbd>Full-Stack</kbd>
-
-Development of a clinic management application to organize and manage medical activities.
-
-**Technologies:**
+Full-stack application for managing medical clinic activities.
 
 `Angular` `Django` `MySQL`
 
----
+### Airline Crew Meals Management
 
-### ✈️ 5. Airline Crew Meals Management Application
+Web and mobile application with real-time communication for airline crew meal management.
 
-<kbd>Web</kbd> <kbd>Mobile</kbd> <kbd>Real-Time</kbd>
+`Angular` `Node.js` `MongoDB` `Flutter` `Socket.IO`
 
-Development of a web and mobile application for managing airline crew meals at Tunisie Catering.
+### Carpooling & Car Rental Platform
 
-**Key features:**
-- Real-time communication.
-- Web and mobile integration.
-- Agile development using Scrum.
-- NLP integration.
+Web application for carpooling and vehicle rental management.
 
-**Technologies:**
-
-`Angular` `Node.js` `MongoDB` `Flutter` `Socket.IO` `NLP` `StarUML`
+`Angular` `Node.js` `Express.js` `Postman`
 
 ---
 
-### 🚗 6. Carpooling & Car Rental Web Application
-
-<kbd>Web Development</kbd> <kbd>Full-Stack</kbd>
-
-Design and development of a web platform for carpooling and car rental services.
-
-**Technologies:**
-
-`Angular` `Node.js` `Express.js` `Postman` `StarUML` `Agile`
-
----
-
-## 💼 Professional Experience
-
-| Company | Position | Period |
-|---|---|---|
-| COMAR Assurances | AI Developer Intern | Aug – Sep 2026 |
-| Lezarts.digital | Full-Stack & AI Developer | Jun – Jul 2026 |
-| Tunisair / Tunisie Catering | Full-Stack Developer Intern | Feb – Jun 2025 |
-| Assurances Hayett | IT Intern | Jan – Feb 2024 |
-| STUDI International | IT Support Intern | Jan – Feb 2023 |
-
----
-
-## 🎓 Education
-
-**Licence in Information Technology – Information Systems Development**
-
-Institut Supérieur des Études Technologiques de Charguia
-
-2022 – 2025 | Mention: Très bien
-
-**Baccalaureate in Experimental Sciences**
-
-Lycée Ibn Mandhour
-
-2021 – 2022
-
----
-
-## 📊 GitHub Analytics
+## GitHub Achievements
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eyaajmii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyaajmii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Eyaajmii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Eyaajmii&theme=discord&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eyaajmii&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/Eyaajmii/Eyaajmii/output/pacman-contribution-graph.svg" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🐍 My Contribution Activity
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eyaajmii/Eyaajmii/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 💜 Let's Connect!
-
-<div align="center">
-
-### Interested in AI, Data Science or Full-Stack Development?
-
-### Let's connect and create something amazing together! 🚀
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/ajmieya13">
-<img src="https://img.shields.io/badge/🔗_Connect_with_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ajmieya13@gmail.com">
-<img src="https://img.shields.io/badge/📧_Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+<img src="https://img.shields.io/badge/Get%20in%20Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Turning ideas into intelligent solutions, one line of code at a time."** ✨
+**Always learning. Always building. Always improving.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DA70D6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=110&section=footer" width="100%"/>
 
 </div>

@@ -1,103 +1,159 @@
-est ce que tu peux me faire un ReadMe.md pour mon github bien avance et plus inetligent : voici mon readme je n aime plus : <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+ <div align="center">
 
-###
-<h1 align="center">hey there 👋<br>I'am Eya Ajmi</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=190&section=header&text=Eya%20Ajmi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Software%20Development&descSize=15&descAlignY=60" width="100%"/>
 
-###
+### Data Science & AI Engineering Student | Full-Stack Developer
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ajmieya13" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajmieya13@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+<a href="https://www.linkedin.com/in/ajmieya13">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  
-  <a href="https://wa.me/21695441814" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
+<a href="mailto:ajmieya13@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Eyaajmii">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Eyaajmii&label=PROFILE+VIEWS&color=6D28D9&style=flat-square"/>
+
 </div>
 
+---
 
-###
+## About Me
+
+I'm **Eya Ajmi**, a Data Science and AI Engineering student with a background in Information Systems Development.
+
+My interests lie at the intersection of Artificial Intelligence, Data Science and Software Engineering. I enjoy designing intelligent solutions and developing modern web and mobile applications.
+
+- Artificial Intelligence & Generative AI
+- Data Science, Machine Learning & NLP
+- Full-Stack Web and Mobile Development
+- RAG architectures and intelligent search systems
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php,c&theme=light"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind&theme=light"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,symfony&theme=light"/>
+</p>
+
+### Artificial Intelligence & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
+</p>
+
+### Databases & Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,flutter,dart,reactnative,androidstudio&theme=light"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode,eclipse,anaconda,latex&theme=light"/>
+</p>
+
+---
+
+## Selected Projects
+
+### Intelligent SMSI Documentation Chatbot
+
+RAG-based chatbot for exploring ISO/IEC 27001 security documentation, featuring semantic indexing, hybrid search and source-grounded answers.
+
+`Python` `LangChain` `FAISS` `RAG` `React` `PyPDF`
+
+### AI-Powered Marketing Analytics Platform
+
+Internal platform for marketing campaign analysis, integrating Google Ads, Meta Ads and Google Analytics, with AEO/GEO content optimization.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Claude API` `Vercel`
+
+### Mawashi – FirmaTrack
+
+Web and mobile platform for monitoring livestock health, productivity and financial activities.
+
+`Spring Boot` `React.js` `PostgreSQL` `React Native`
+
+### Medical Clinic Management
+
+Full-stack application for managing medical clinic activities.
+
+`Angular` `Django` `MySQL`
+
+### Airline Crew Meals Management
+
+Web and mobile application with real-time communication for airline crew meal management.
+
+`Angular` `Node.js` `MongoDB` `Flutter` `Socket.IO`
+
+### Carpooling & Car Rental Platform
+
+Web application for carpooling and vehicle rental management.
+
+`Angular` `Node.js` `Express.js` `Postman`
+
+---
+
+## GitHub Achievements
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eyaajmii.Eyaajmii&"  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eyaajmii&theme=discord&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
+
 </div>
 
-###
+---
 
+## Contributions
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Junior Software Developer, motivated and eager to grow. Skilled in Java, Python, JavaScript, Node.js, Angular, and Git.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-
-###
-<h3 align="left">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Eyaajmii&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://raw.githubusercontent.com/Eyaajmii/Eyaajmii/output/pacman-contribution-graph.svg" width="100%" alt="Contribution Graph"/>
+
 </div>
 
+---
 
+<div align="center">
 
-###
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/ajmieya13">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ajmieya13@gmail.com">
+<img src="https://img.shields.io/badge/Get%20in%20Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Always learning. Always building. Always improving.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0891B2&height=110&section=footer" width="100%"/>
+
+</div>

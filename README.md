@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:0284C7&height=180&section=header&text=Eya%20Ajmi&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Software%20Development&descSize=14&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Eya+Ajmi;Data+Science+%26+AI+Engineering+Student;Full-Stack+Developer;Building+intelligent+digital+solutions." alt="Typing intro"/>
-
 **Data Science & AI Engineering Student · Junior Full-Stack Developer**
 
 [LinkedIn](https://www.linkedin.com/in/ajmieya13) · [GitHub](https://github.com/Eyaajmii) · [Email](mailto:ajmieya13@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Eyaajmii&label=Profile+Views&color=0284C7&style=flat-square" alt="Profile views"/>
 
 </div>
 

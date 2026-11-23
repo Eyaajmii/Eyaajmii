@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Eya+Ajmi;Data+Science+%26+AI+Engineering+Student;Full-Stack+Developer;Building+intelligent+digital+solutions." alt="Typing intro"/>
 
-**Data Science & AI Engineering Student · Tunisia 🇹🇳**
+**Data Science & AI Engineering Student · Junior Full-Stack Developer**
 
 [LinkedIn](https://www.linkedin.com/in/ajmieya13) · [GitHub](https://github.com/Eyaajmii) · [Email](mailto:ajmieya13@gmail.com)
 
